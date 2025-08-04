@@ -1,11 +1,11 @@
-
+# Olá Mundo! Eu sou Claudia Barbosa
                                                                                 
                                                                       
  
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-   Hi, meu nome é Claudia Barbosa, estou iniciando meu caminho como estudante em
+   Meu nome é Claudia Barbosa, estou iniciando meu caminho como estudante em
  analise e desenvolvimento de sistemas, e engenharia de controle de softwear. 
   
   
